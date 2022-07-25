@@ -41,6 +41,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ahtoh\WebstormProjects\app\Create-posts\src\components\UI\MyModal" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +56,7 @@
       <updated>1658544194890</updated>
       <workItem from="1658544196938" duration="1369000" />
       <workItem from="1658623458235" duration="9299000" />
+      <workItem from="1658710230176" duration="7730000" />
     </task>
     <servers />
   </component>
