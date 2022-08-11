@@ -5,7 +5,7 @@ import AppRouter from "./components/AppRouter";
 import {BrowserRouter} from "react-router-dom";
 import {AuthContext} from "./context";
 
-//settings git test commit 2
+//settings git test commit 3
 
 function App() {
     const [isAuth, setIsAuth] = useState(false)
