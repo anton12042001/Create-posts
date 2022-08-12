@@ -2,12 +2,17 @@ import React, {useContext} from 'react';
 import MyInput from "../components/UI/input/MyInput";
 import MyButton from "../components/UI/button/MyButton";
 import {AuthContext} from "../context";
+import {useNavigate} from "react-router-dom";
 
 const Login = () => {
+
+    const navigate = useNavigate()
+
     const {isAuth, setIsAuth} = useContext(AuthContext)
     const login = event => {
         event.preventDefault()
         setIsAuth(true)
+        navigate('/posts')
     }
     return (
         <div>
