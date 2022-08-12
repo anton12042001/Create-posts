@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="917affcb-6075-4c4b-a4c0-729d6af78fd9" name="Changes" comment="test commit 2. settings git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AppRouter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AppRouter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Navbar/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CommentsPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CommentsPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Posts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Posts.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <workItem from="1660180235324" duration="1490000" />
       <workItem from="1660188421629" duration="163000" />
       <workItem from="1660197146289" duration="229000" />
-      <workItem from="1660265599061" duration="3648000" />
+      <workItem from="1660265599061" duration="6227000" />
     </task>
     <task id="LOCAL-00001" summary="test commit 2. settings git">
       <created>1660188447356</created>
