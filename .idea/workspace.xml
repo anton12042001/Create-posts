@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="917affcb-6075-4c4b-a4c0-729d6af78fd9" name="Changes" comment="" />
+    <list default="true" id="917affcb-6075-4c4b-a4c0-729d6af78fd9" name="Changes" comment="test commit 2. settings git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CommentsPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CommentsPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Posts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Posts.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +33,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -41,6 +46,22 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/reactApp/Create-posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+>>>>>>> efb5d43356434335bfb32e879e04fbccc7d62b05
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ahtoh\WebstormProjects\app\Create-posts\src" />
@@ -62,16 +83,49 @@
       <workItem from="1658796400793" duration="137000" />
       <workItem from="1659920620852" duration="7738000" />
       <workItem from="1660023765088" duration="3474000" />
+<<<<<<< HEAD
       <workItem from="1660093057088" duration="9321000" />
       <workItem from="1665991964548" duration="160000" />
       <workItem from="1666663401365" duration="11000" />
       <workItem from="1666664295314" duration="2501000" />
       <workItem from="1666745530002" duration="62000" />
       <workItem from="1668912986809" duration="364000" />
+=======
+      <workItem from="1660093057088" duration="8910000" />
+      <workItem from="1660144158632" duration="209000" />
+      <workItem from="1660144383639" duration="847000" />
+      <workItem from="1660180235324" duration="1490000" />
+      <workItem from="1660188421629" duration="163000" />
+      <workItem from="1660197146289" duration="229000" />
+      <workItem from="1660265599061" duration="6227000" />
     </task>
+    <task id="LOCAL-00001" summary="test commit 2. settings git">
+      <created>1660188447356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660188447356</updated>
+>>>>>>> efb5d43356434335bfb32e879e04fbccc7d62b05
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit 2. settings git" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit 2. settings git" />
   </component>
 </project>
